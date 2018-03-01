@@ -7,14 +7,16 @@
     your browser</a> to improve your experience and security.</p>
 <![endif]-->
 
-<div class="content-wrapper">
+<div class="container">
 
     <!-- Add your site or application content here -->
-    <header>
+    <header class="container">
         @include('includes.mainNav')
     </header>
     <!-- Content Header (Page header) -->
-    @yield('content')
+    <main role="main">
+        @yield('content')
+    </main>
 
 
     <footer class="main-footer">
