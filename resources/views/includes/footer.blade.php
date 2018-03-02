@@ -1,1 +1,3 @@
-<strong>Copyright &copy; 2016 <a href="#">Company</a>.</strong> All rights reserved.
+<footer class="container">
+    <strong><p>&copy; <a href="#">Yemofio & Company</a> 2018</p> </strong>All rights reserved.
+</footer>
